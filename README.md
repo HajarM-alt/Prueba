@@ -1,7 +1,7 @@
 # Prueba
 Esta es la descripción
 
-![gato](https://github.com/user-attachments/assets/bc815fc2-88d5-419a-b494-486ae9a1210d)
+![gato](gato.jpeg)
 
 ## Sección
 Una lista:
