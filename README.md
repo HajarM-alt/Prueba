@@ -1,6 +1,8 @@
 # Prueba
 Esta es la descripción
 
+Puedes ver [Mis notas](directorio/misnotas.md)
+
 ![gato](gato.jpeg)
 
 ## Sección
