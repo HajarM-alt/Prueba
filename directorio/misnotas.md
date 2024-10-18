@@ -2,4 +2,4 @@
 
 hola esto es en **negrita**
 
-Prueba ir ![gato](gato.jpeg)
+Prueba ir [Ir a readme principal](README.md)
