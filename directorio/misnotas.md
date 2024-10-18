@@ -2,4 +2,4 @@
 
 hola esto es en **negrita**
 
-Prueba ir [Ir a readme principal](README.md)
+Prueba ir [Ir a readme principal](/README.md)
