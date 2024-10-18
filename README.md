@@ -1,6 +1,8 @@
 # Prueba
 Esta es la descripción
 
+Esto lo edito con nano
+
 Puedes ver [Mis notas](directorio/misnotas.md)
 
 ![gato](gato.jpeg)
